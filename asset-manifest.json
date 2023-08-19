@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RegainControl/static/css/main.4c9cf450.css",
+    "main.js": "/RegainControl/static/js/main.74a94f68.js",
+    "static/media/abstract-fantasy-landscape-background.jpg": "/RegainControl/static/media/abstract-fantasy-landscape-background.d3981dd5a0db3a32878c.jpg",
+    "static/media/armaan1-removebg-preview.png": "/RegainControl/static/media/armaan1-removebg-preview.32a205bf484c9b082cce.png",
+    "index.html": "/RegainControl/index.html",
+    "main.4c9cf450.css.map": "/RegainControl/static/css/main.4c9cf450.css.map",
+    "main.74a94f68.js.map": "/RegainControl/static/js/main.74a94f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c9cf450.css",
+    "static/js/main.74a94f68.js"
+  ]
+}
